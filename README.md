@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=Rounded&color=gradient&theme=gruvbox_light&height=100"/>
-</p>
+
+![header](https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=Rounded&color=gradient&theme=gruvbox_light&height=100)
+
 
 ## Let's connect! 💻
 <div align="center">
