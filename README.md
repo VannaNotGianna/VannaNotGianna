@@ -56,6 +56,14 @@ hobbies: ["Traveling", "Play the piano", "Lego building", "Theater", "Reading"]
 ```
 <h2> ✏ &nbsp;Some Tools I Have Used and Learned</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,azure,bash,bootstrap,c,cpp,cassandra,cmake,css,django,doocker,dynamodb,flask,gcp,git,github,githubactions,html,idea,java,js,jenkins,kubernetes,latex,linux,md,mongodb,mysql,neovim,nestjs,nodejs,notion,npm,postgres,postman,pycharm,py,pytorch,r,react,robloxstudio,spring,sqlite,sublime,sklearn,selenium,tensorflow,ts,ubuntu,unity,vim,visualstudio,vscode" />
+  </a>
+</p>
+
+
+
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
