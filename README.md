@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-15-1024.png" />
   <a href="https://x.com/databyliz">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-03-1024.png" />
+  <img height="50" src="https://brandeps.com/icon-download/M/Medium-circle-icon-vector-02.svg" />
   <a href="https://medium.com/@elizabeth.huaman">
   <img height="50" src="https://www.svgrepo.com/show/354057/medium-icon.svg" />
   <a href="https://www.kaggle.com/elizabethhuaman">
