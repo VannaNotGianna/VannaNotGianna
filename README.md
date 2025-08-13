@@ -8,11 +8,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-15-1024.png" />
+  <img height="50" src="https://cdn.simpleicons.org/x/000/f26207?viewbox=auto&size=50" />
   <a href="https://x.com/databyliz">
   <img height="50" src="https://brandeps.com/icon-download/M/Medium-circle-icon-vector-02.svg" />
   <a href="https://medium.com/@elizabeth.huaman">
-  <img height="50" src="https://www.svgrepo.com/show/354057/medium-icon.svg" />
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" />
   <a href="https://www.kaggle.com/elizabethhuaman">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
   <a href="https://www.hackerrank.com/profile/elizabeth_huaman">
