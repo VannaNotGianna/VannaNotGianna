@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Making%20sense%20through%20data%20and%20code.%20&fontSize=30&fontAlign=65&fontAlignY=40&color=gradient&customColorList=14"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=VannaNotGianna)
+![](https://komarev.com/ghpvc/?username=VannaNotGianna&color=b993d6)
 
 <h2 align="left">
   💻 Let's connect!
