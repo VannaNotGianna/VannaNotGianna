@@ -7,11 +7,17 @@
 </h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,linkedin,gmail" />
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://www.linkedin.com/in/elizabeth-huaman-santillan/" />
   </a>
-</p>
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://www.linkedin.com/in/elizabeth-huaman-santillan/" />
+  </a>
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://www.linkedin.com/in/elizabeth-huaman-santillan/" />
+  </a>
 
+</p>
 
 ---
 
