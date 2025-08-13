@@ -9,7 +9,7 @@
   <a href="https://x.com/databyliz">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-03-1024.png"/>
   <a href="https://medium.com/@elizabeth.huaman">
-  <img height="50" src="//cdn.simpleicons.org/medium"/>
+  <img height="50" src="https://cdn.simpleicons.org/medium?viewbox=auto&size=30"/>
   <a href="https://www.kaggle.com/elizabethhuaman">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"/>
   
