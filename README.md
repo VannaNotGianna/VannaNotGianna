@@ -18,7 +18,7 @@
   <a href="https://www.hackerrank.com/profile/elizabeth_huaman">
   <img height="50" src="https://cdn.simpleicons.org/hackerrank/000/fff?viewbox=auto&size=50" />
   <a href="https://replit.com/@LizHs">
-  <img height="50" src="https://cdn.simpleicons.org/replit/000/fff?viewbox=auto&size=50" />
+  <img height="50" src="https://cdn.simpleicons.org/replit/000/f26207?viewbox=auto&size=50" />
   
     
 </a></div>
