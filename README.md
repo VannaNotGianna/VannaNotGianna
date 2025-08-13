@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?text=Hey%Everyone!&animation=fadeIn&type=Rounded&color=gradient&theme=gruvbox_light&height=100)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=Rounded&color=gradient&theme=gruvbox_light&height=100)
 
 ## Let's connect! 💻
 <div align="center">
