@@ -5,13 +5,13 @@
 ## Let's connect! 💻
 <div align="center">
   <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-15-1024.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-15-1024.png" />
   <a href="https://x.com/databyliz">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-03-1024.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-03-1024.png" />
   <a href="https://medium.com/@elizabeth.huaman">
-  <img height="50" src="https://cdn.simpleicons.org/medium/000/fff?viewbox=auto&size=50"/>
+  <img height="50" src="https://cdn.simpleicons.org/medium/000/fff?viewbox=auto&size=50" />
   <a href="https://www.kaggle.com/elizabethhuaman">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
   
 
 </a></div>
