@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Making%20sense%20through%20data%20and%20code.%20&fontSize=30&fontAlign=65&fontAlignY=40&color=gradient&customColorList=14"/>
 </p>
 
-## Let's connect! 💻
+<h1 align="center">
+  💻 Let's connect!
+</h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-15-1024.png" />
@@ -51,7 +54,7 @@ currently_learning: ["LLM, RAG, Software"]
 2025 Goals: ["Create 10+ Projects and learn new technologies."]
 hobbies: ["Traveling", "Play the piano", "Lego building", "Theater", "Reading"]
 ```
-## Some Tools I Have Used and Learned ✏
+<h2> ✏ &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
 
