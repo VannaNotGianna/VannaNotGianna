@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Making%20sense%of%coding&fontSize=30&fontAlign=80&fontAlignY=40&color=gradient&customColorList=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Making%20sense%20of%20coding&fontSize=30&fontAlign=80&fontAlignY=40&color=gradient&customColorList=14"/>
 </p>
 
 ## Let's connect! 💻
