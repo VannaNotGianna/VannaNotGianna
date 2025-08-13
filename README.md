@@ -4,7 +4,7 @@
 
 ## Let's connect! 💻
 <div align="center">
-  <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/">
+  <a href="">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-15-1024.png" />
   <a href="https://x.com/databyliz">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-03-1024.png" />
