@@ -20,8 +20,8 @@
   </a>
 
   <a href="https://medium.com/@elizabeth.huaman">
-    <img height="75" 
-         src="https://cdn0.iconfinder.com/data/icons/social-media-entertainment-line/32/Medium-1024.png" 
+    <img height="50" 
+         src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" 
          style="vertical-align: bottom;" />
   </a>
 
