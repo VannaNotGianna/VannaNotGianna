@@ -14,7 +14,7 @@
   <img height="50" src="https://cdn.simpleicons.org/x/000/fff?viewbox=auto&size=45" />
     
   <a href="https://medium.com/@elizabeth.huaman" style="position: relative; display: inline-block; height: 100px;">
-  <img height="75" 
+  <img height="50" 
        src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" 
        style="position: absolute; bottom: 0;" />
 </a>
