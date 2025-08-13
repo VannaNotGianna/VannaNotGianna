@@ -10,12 +10,6 @@
   <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <img src="https://www.linkedin.com/in/elizabeth-huaman-santillan/" />
   </a>
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src="https://www.linkedin.com/in/elizabeth-huaman-santillan/" />
-  </a>
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src="https://www.linkedin.com/in/elizabeth-huaman-santillan/" />
-  </a>
 
 </p>
 
