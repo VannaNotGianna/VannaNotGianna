@@ -9,7 +9,10 @@
   <a href="https://x.com/databyliz">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-03-1024.png"/>
   <a href="https://medium.com/@elizabeth.huaman">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-black/512/medium_flat_black-1024.png"/>
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/medium-line-1024.png"/>
+  <a href="https://www.kaggle.com/elizabethhuaman">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"/>
+  
 
 </a></div>
 
