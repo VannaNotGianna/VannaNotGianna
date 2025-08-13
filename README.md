@@ -46,7 +46,7 @@ currently_learning: ["LLM, RAG, Software"]
 2025 Goals: ["Create 10+ Projects and learn new technologies."]
 hobbies: ["Traveling", "Play the piano", "Lego building", "Theater", "Reading"]
 ```
-## Some Tools I Have Used and Learned
+## Some Tools I Have Used and Learned ✏
 
 <p align="left">
 
