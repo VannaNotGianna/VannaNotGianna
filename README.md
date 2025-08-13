@@ -35,7 +35,8 @@ company: **** (It is a secret)
 
 fields_of_interests:
   [
-    "Data Engineer",
+    "AI",
+    "Data Engineering",
     "Data Science",
     "Web Development",
     "Machine Learning",
