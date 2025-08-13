@@ -28,6 +28,7 @@ current_job: AI Intern
 education:
   [
     "Self-Taught Developer and Designer",
+    "Data Engineer with a passion in AI and Data Science",
     "Bachelor's in Computer Science",
   ]
 company: **** (It is a secret)
