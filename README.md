@@ -16,7 +16,7 @@
   <a href="https://www.kaggle.com/elizabethhuaman">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
   <a href="https://www.hackerrank.com/profile/elizabeth_huaman">
-  <img height="50" src="https://cdn.simpleicons.org/hackerrank/000/fff?viewbox=auto&size=50" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/250px-HackerRank_Icon-1000px.png" />
   <a href="https://replit.com/@LizHs">
   <img height="50" src="https://cdn.simpleicons.org/replit/000/f26207?viewbox=auto&size=50" />
   
