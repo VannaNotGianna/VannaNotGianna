@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-![](https://komarev.com/ghpvc/?username=VannaNotGianna&color=b993d6)
+  <img src="https://komarev.com/ghpvc/?username=VannaNotGianna&color=b993d6"/>
 </p>
 
 <h2 align="left">
