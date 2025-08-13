@@ -51,7 +51,7 @@ technical_background:
   ]
   
 currently_learning: ["LLM, RAG, Software"]
-2025 Goals: ["Create 10+ Projects and learn new technologies."]
+2025_goals: ["Create 10+ Projects and learn new technologies."]
 hobbies: ["Traveling", "Play the piano", "Lego building", "Theater", "Reading"]
 ```
 <h2> ✏ &nbsp;Some Tools I Have Used and Learned</h2>
