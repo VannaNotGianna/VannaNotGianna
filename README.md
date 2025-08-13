@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Hello%20Everyone!&fontSize=30&fontAlign=80&fontAlignY=40&color=gradient&customColorList=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Welcome!&fontSize=30&fontAlign=80&fontAlignY=40&color=gradient&customColorList=14"/>
 </p>
 
 ## Let's connect! 💻
@@ -13,6 +13,10 @@
   <a href="https://www.kaggle.com/elizabethhuaman">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
 </a></div>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;Feel welcomed to know more about me</h2>
 
 ```yaml
 name: Elizabeth Huaman
