@@ -21,7 +21,7 @@
 
   <a href="https://medium.com/@elizabeth.huaman">
     <img height="75" 
-         src="https://cdn0.iconfinder.com/data/icons/phosphor-bold-vol-3-1/256/medium-logo-duotone-1024.png" 
+         src="https://cdn0.iconfinder.com/data/icons/social-media-entertainment-line/32/Medium-1024.png" 
          style="vertical-align: bottom;" />
   </a>
 
