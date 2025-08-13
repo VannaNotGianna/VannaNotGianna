@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Making%20sense%20through%20data%20and%20code.%20&fontSize=30&fontAlign=65&fontAlignY=40&color=gradient&customColorList=14"/>
 </p>
 
-<h1 align="left">
+<h2 align="left">
   💻 Let's connect!
-</h1>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
