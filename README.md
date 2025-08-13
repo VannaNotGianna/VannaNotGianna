@@ -12,7 +12,7 @@
   <a href="https://x.com/databyliz">
   <img height="50" src="https://cdn.simpleicons.org/x/000/fff?viewbox=auto&size=45" />
   <a href="https://medium.com/@elizabeth.huaman">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" />
+  <img height="55" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" />
   <a href="https://www.kaggle.com/elizabethhuaman">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
   <a href="https://www.hackerrank.com/profile/elizabeth_huaman">
