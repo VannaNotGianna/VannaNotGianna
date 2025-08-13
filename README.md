@@ -6,43 +6,11 @@
   💻 Let's connect!
 </h1>
 
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/elizabeth-huaman-santillan/">
-    <img height="50" 
-         src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" 
-         style="vertical-align: bottom;" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,gmail" />
   </a>
-
-  <a href="https://x.com/databyliz">
-    <img height="50" 
-         src="https://cdn.simpleicons.org/x/000/fff?viewbox=auto&size=45" 
-         style="vertical-align: bottom;" />
-  </a>
-
-  <a href="https://medium.com/@elizabeth.huaman">
-    <img height="50" 
-         src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" 
-         style="vertical-align: bottom;" />
-  </a>
-
-  <a href="https://www.kaggle.com/elizabethhuaman">
-    <img height="50" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" 
-         style="vertical-align: bottom;" />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/elizabeth_huaman">
-    <img height="50" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/250px-HackerRank_Icon-1000px.png" 
-         style="vertical-align: bottom;" />
-  </a>
-
-  <a href="https://replit.com/@LizHs">
-    <img height="50" 
-         src="https://cdn.simpleicons.org/replit/000/f26207?viewbox=auto&size=50" 
-         style="vertical-align: bottom;" />
-  </a>
-</div>
+</p>
 
 
 ---
