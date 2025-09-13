@@ -28,14 +28,14 @@
 ```yaml
 name: Elizabeth Huaman
 located_in: Lima, Peru
-current_job: AI Intern
+current_job: Data Engineer II
 education:
   [
     "Self-Taught Developer and Designer",
     "Data Engineer with a passion in AI and Data Science",
     "Bachelor's in Computer Science",
   ]
-company: **** (It is a secret)
+company: ***** (It is a secret)
 
 fields_of_interests:
   [
