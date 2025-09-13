@@ -51,8 +51,8 @@ technical_background:
     "Data Engineer"
     "Full Stack Developer"
     "Data Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - AI",
+    "Data Scientist",
+    "AI Engineer",
     "Mentoring kids introducing them to Computer Science world",
   ]
   
