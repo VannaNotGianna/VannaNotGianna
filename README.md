@@ -35,7 +35,7 @@ education:
     "Data Engineer with a passion in AI and Data Science",
     "Bachelor's in Computer Science",
   ]
-company: ***** (It is a secret)
+company: ******* (It is a secret)
 
 fields_of_interests:
   [
@@ -57,7 +57,7 @@ technical_background:
   ]
   
 currently_learning: ["LLM, RAG, Software"]
-2025_goals: ["Create 10+ Projects and learn new technologies."]
+2026_goals: ["Create 10+ Projects and learn new technologies."]
 hobbies: ["Traveling", "Play the piano", "Lego building", "Theater", "Reading"]
 ```
 <h2> ✏ &nbsp;Some Tools I Have Used and Learned</h2>
